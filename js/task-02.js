@@ -6,4 +6,4 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
-console.log('ingredients')
+console.log(ingredients)
